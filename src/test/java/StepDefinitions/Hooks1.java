@@ -6,7 +6,7 @@ import cucumber.api.java.Before;
 
 public class Hooks1 extends Base{
 
-	
+	//////////////////////////
 	
 	@After("@smoketest")
 	public void aftervalidation() {
